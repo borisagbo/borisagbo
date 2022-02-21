@@ -4,5 +4,6 @@
 - 💞️ I’m looking to collaborate on React Native projet or all projet arround JavaScript or TypeScript
 - 📫 How to reach me :twitter.com/AGBOBoris4 | Mail: agboboris59@gmail.com
 
-<a href="https://app.daily.dev/Ink"><img src="https://api.daily.dev/devcards/b80646fbb1e94f14884d144ea8097a85.png?r=w2g" width="400" alt="Boris's Dev Card"/></a>
+![Boris AGBO's GitHub stats](https://github-readme-stats.vercel.app/api?username=borisagbo&count_private=true&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borisagbo&hide=jupyter%20notebook,html,css,php,roff&langs_count=6&layout=compact&count_private=true)
